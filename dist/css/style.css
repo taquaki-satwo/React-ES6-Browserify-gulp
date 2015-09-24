@@ -1,0 +1,7 @@
+body {
+  background: gray; }
+  body p {
+    -webkit-border-image: url("bg.png");
+         -o-border-image: url("bg.png");
+            border-image: url("bg.png");
+    background: white; }
