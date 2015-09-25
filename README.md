@@ -8,8 +8,6 @@ $ bower install
 $ gulp
 ```
 
-—
-
 ## できること
 
 * JadeからHTML生成
